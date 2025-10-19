@@ -1,4 +1,4 @@
-# 🧰 Windows PowerShell Troubleshooting Scripts
+# 🧰 PowerShell Troubleshooting Scripts
 *A hands-on PowerShell toolkit that automates real-world Windows troubleshooting tasks.*
 
 ![PowerShell](https://img.shields.io/badge/Language-PowerShell-blue?style=for-the-badge)
