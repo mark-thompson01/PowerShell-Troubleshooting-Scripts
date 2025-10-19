@@ -20,7 +20,7 @@ The toolkit covers:
 - User profile and login issue detection  
 - Windows Update auditing and compliance reporting  
 
-All scripts were created and tested in **Windows PowerShell ISE** on Windows 10/11.
+All scripts were created and tested in **Windows PowerShell ISE** on Windows 11.
 
 ---
 
