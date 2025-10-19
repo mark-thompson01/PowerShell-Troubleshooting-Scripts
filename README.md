@@ -24,6 +24,26 @@ All scripts were created and tested in **Windows PowerShell ISE** on Windows 11.
 
 ---
 
+🖥️ **Live Project Webpage:**  
+👉 [PowerShell Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/PowerShell%20Troubleshooting%20Scripts/)
+
+---
+
+📂 **Hosted on GitHub Pages:**  
+All images, HTML, and styling are embedded within the GitHub Pages site itself.
+
+---
+
+📘 **Purpose**  
+The goal of this project is to showcase my ability to:
+-Write and interpret PowerShell scripts
+-Automate troubleshooting and diagnostic workflows
+-Implement and apply efficiency in repetitive tasks
+
+
+
+---
+
 ## ⚙️ 1. Network Connectivity Troubleshooting Script
 **File:** `Network Connectivity Troubleshooting Script.ps1`  
 **Purpose:** Tests adapters, gateway connectivity, and DNS resolution while logging all output to a report.
@@ -110,3 +130,16 @@ All scripts can be automated with **Windows Task Scheduler**.
 Example command:
 ```powershell
 powershell.exe -ExecutionPolicy Bypass -File "C:\Scripts\DiskCheck.ps1"
+```
+---
+
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+---
+
+📄 **License**  
+This content is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
