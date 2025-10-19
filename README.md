@@ -25,7 +25,7 @@ All scripts were created and tested in **Windows PowerShell ISE** on Windows 11.
 ---
 
 🖥️ **Live Project Webpage:**  
-👉 [PowerShell Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/PowerShell%20Troubleshooting%20Scripts/)
+👉 [PowerShell Troubleshooting Scripts](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/PowerShell%20Troubleshooting%20Scripts/)
 
 ---
 
